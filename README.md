@@ -7,7 +7,7 @@ ____________
 Welcome to Hangman!
 
 This program is developed in the the Node JS environment. The program uses an external module to randomly generate words instead of randomly selecting words from a set of arrays. Please make sure that you have the latest nodejs version installed on your computer.
-For more information, please visist https://nodejs.org/en/download/
+For more information, please visit https://nodejs.org/en/download/
 
 
 Before starting the program, you will have to execute some commands in the terminal to ensure the program will run smoothly.
