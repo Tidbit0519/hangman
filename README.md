@@ -17,7 +17,7 @@ THe commands above will install the necessary node modules that will allow the p
 
 To run the program, simply type "node index" into your terminal and follow any suceeding instructions.
 
-=========================================================================================================================================================================
+______________________________________________________________________
 
 Changes/Fixes to be implemented:
 1. Program brand name
