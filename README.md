@@ -24,6 +24,3 @@ Changes/Fixes to be implemented:
 2. A prompt for user to select if they want to play the game again or to quit.
 3. If the letter is not in the word, display the letter indicating it is not in the word with all previously guessed letters that are not in the word
 4. Display the amount of correct and incorrect guesses
-
-Start: 8.20 AM
-End: 12.20 PM
